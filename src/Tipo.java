@@ -36,8 +36,8 @@ public class Tipo extends Fruta{
                 ", cor='" + cor + '\'' +
                 ", tamanho='" + tamanho + '\'' +
                 ", colheita='" + colheita + '\'' +
-                ", colheita='" + getTipoSeiva() + '\'' +
-                ", colheita='" + getQuantCaroco() + '\'' +
+                ", Seiva='" + getTipoSeiva() + '\'' +
+                ", Quantidade de caroço='" + getQuantCaroco() + '\'' +
 
                 '}';
     }
